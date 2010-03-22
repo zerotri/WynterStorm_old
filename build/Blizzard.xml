@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BlizzardUI version="1.0" >
+	<Header>
+		Hello World!
+		<!-- some comments -->
+		<Application name="WynterStorm" version="0" />
+	</Header>
+	<Resources>
+		<Image name="bar_left" file="blizzard_bar_left.png" />
+		<Image name="bar_middle" file="blizzard_bar_middle.png" />
+		<Image name="bar_right" file="blizzard_bar_right.png" />
+	</Resources>
+</<BlizzardUI>
